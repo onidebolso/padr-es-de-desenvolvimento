@@ -1,1 +1,1 @@
-# padr-es-de-desenvolvimento
+# padroes-de-desenvolvimento
